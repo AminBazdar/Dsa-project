@@ -1,0 +1,3 @@
+/Users/aminbazdar/Desktop/Dsa-project/build/CMakeFiles/rebuild_cache.dir
+/Users/aminbazdar/Desktop/Dsa-project/build/CMakeFiles/edit_cache.dir
+/Users/aminbazdar/Desktop/Dsa-project/build/CMakeFiles/exe.dir
