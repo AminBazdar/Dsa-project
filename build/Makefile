@@ -153,6 +153,30 @@ src/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/exe.dir/build.make CMakeFiles/exe.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
 
+src/pathFinder.o: src/pathFinder.cpp.o
+.PHONY : src/pathFinder.o
+
+# target to build an object file
+src/pathFinder.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exe.dir/build.make CMakeFiles/exe.dir/src/pathFinder.cpp.o
+.PHONY : src/pathFinder.cpp.o
+
+src/pathFinder.i: src/pathFinder.cpp.i
+.PHONY : src/pathFinder.i
+
+# target to preprocess a source file
+src/pathFinder.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exe.dir/build.make CMakeFiles/exe.dir/src/pathFinder.cpp.i
+.PHONY : src/pathFinder.cpp.i
+
+src/pathFinder.s: src/pathFinder.cpp.s
+.PHONY : src/pathFinder.s
+
+# target to generate assembly for a file
+src/pathFinder.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/exe.dir/build.make CMakeFiles/exe.dir/src/pathFinder.cpp.s
+.PHONY : src/pathFinder.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -165,6 +189,9 @@ help:
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"
+	@echo "... src/pathFinder.o"
+	@echo "... src/pathFinder.i"
+	@echo "... src/pathFinder.s"
 .PHONY : help
 
 

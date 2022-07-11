@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/Users/aminbazdar/Desktop/Dsa-project/src/main.cpp" "CMakeFiles/exe.dir/src/main.cpp.o" "gcc" "CMakeFiles/exe.dir/src/main.cpp.o.d"
+  "/Users/aminbazdar/Desktop/Dsa-project/src/pathFinder.cpp" "CMakeFiles/exe.dir/src/pathFinder.cpp.o" "gcc" "CMakeFiles/exe.dir/src/pathFinder.cpp.o.d"
   )
 
 # Targets to which this target links.

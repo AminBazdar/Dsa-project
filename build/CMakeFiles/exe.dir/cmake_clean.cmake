@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/exe.dir/src/main.cpp.o"
   "CMakeFiles/exe.dir/src/main.cpp.o.d"
+  "CMakeFiles/exe.dir/src/pathFinder.cpp.o"
+  "CMakeFiles/exe.dir/src/pathFinder.cpp.o.d"
   "exe"
   "exe.pdb"
 )

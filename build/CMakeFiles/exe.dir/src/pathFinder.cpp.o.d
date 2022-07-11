@@ -1,5 +1,5 @@
-CMakeFiles/exe.dir/src/main.cpp.o: \
-  /Users/aminbazdar/Desktop/Dsa-project/src/main.cpp \
+CMakeFiles/exe.dir/src/pathFinder.cpp.o: \
+  /Users/aminbazdar/Desktop/Dsa-project/src/pathFinder.cpp \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1/iostream \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1/__config \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/pthread.h \
